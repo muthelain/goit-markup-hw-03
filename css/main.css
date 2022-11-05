@@ -250,6 +250,7 @@ body{
     text-align: center;
     letter-spacing: 0.03em;
     padding: 30px 0 10px;
+    text-transform: none;
 }
 .team__card p{
     font-family: 'Roboto';
@@ -370,6 +371,7 @@ footer{
     letter-spacing: 0.06em;
     
     color:  var(--coiortextport);
+    text-transform: none;
 
 }
 .project__text p{
