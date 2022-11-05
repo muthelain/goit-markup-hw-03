@@ -144,7 +144,6 @@ body{
 .peculiarities__list{
     display: flex;
     justify-content: center;
-    align-items: center;
     column-gap: 30px;
 }
 .peculiarities__list li{
@@ -160,6 +159,7 @@ body{
     line-height: 16px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    padding-bottom: 10px;
 }
 .peculiarities__text p{
     font-family: 'Roboto';
