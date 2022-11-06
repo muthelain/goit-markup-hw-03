@@ -44,6 +44,7 @@ p {
 
 img {
     border-style: none;
+    display: block;
 }
 
 button,
